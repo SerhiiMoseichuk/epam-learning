@@ -1,4 +1,4 @@
-package com.epam.learning.lecture1;
+package com.epam.learning.lecture1.task1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
